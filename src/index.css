@@ -2,6 +2,9 @@ body , html{
     font-family: "American Typewriter";
     margin: 0px;
     padding: 0px;
+    background:linear-gradient(rgba(151, 227, 227, 0.39), rgba(255, 255, 255, 0.89)),
+    url("./images/ClipartKey_257147.png") no-repeat center;
+    background-size: 100% 100%;
 }
 
 .calc-cont
@@ -352,4 +355,30 @@ body , html{
 #calc{
     background: rgba(124, 252, 0, 0.91);
     border: 2px solid lime;
+}
+/* --------- phone and tab --------- */
+
+@media screen and (max-width: 1017px) {
+    .keyboard-cont-display input {
+        font-size: x-large;
+    }
+    .Display-cont input, .result-cont input{
+        font-size: x-large;
+    }
+}
+@media screen and (max-width: 778px) {
+    .keyboard-cont-display input {
+        font-size: large;
+    }
+    .Display-cont input, .result-cont input{
+        font-size: large;
+    }
+}
+@media screen and (max-width: 740px) {
+    .mac-cont{
+        display: none;
+    }
+    .tab-cont{
+        width: 85%;
+    }
 }
