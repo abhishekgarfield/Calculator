@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Calculator/static/css/main.5228ff47.css",
+    "main.js": "/Calculator/static/js/main.42674f7c.js",
+    "static/media/pexels-cottonbro-5473960.jpg": "/Calculator/static/media/pexels-cottonbro-5473960.098403f683df39c2924a.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Calculator/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/as.jpeg": "/Calculator/static/media/as.09c7e6cd9f4bcb082a98.jpeg",
+    "static/media/fontawesome-webfont.eot": "/Calculator/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Calculator/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Calculator/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Calculator/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Calculator/index.html",
+    "main.5228ff47.css.map": "/Calculator/static/css/main.5228ff47.css.map",
+    "main.42674f7c.js.map": "/Calculator/static/js/main.42674f7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5228ff47.css",
+    "static/js/main.42674f7c.js"
+  ]
+}
