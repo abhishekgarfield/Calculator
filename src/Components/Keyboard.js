@@ -36,12 +36,10 @@ const Keyboard=()=>{
                     <input type="button" value="9" className="keyboard-buttons" onClick={handleClick}/>
                     <input type="button" value="*" className="keyboard-buttons" onClick={handleClick}/>
                     <input id="zero" type="button" value="0" className="keyboard-buttons" onClick={handleClick}/>
-
-
                     <input  type="button" value="/" className="keyboard-buttons" onClick={handleClick}/>
-
-                    <input id="cler" type="button" value="clear" className="keyboard-buttons" onClick={handleClick}/>
                     <input id ="calc" type="button" value="calculate" className="keyboard-buttons" onClick={handleClick}/>
+                    <input id="cler" type="button" value="clear" className="keyboard-buttons" onClick={handleClick}/>
+
                 </div>
             </div>
         </>
