@@ -3,11 +3,11 @@ import {useState} from "react";
 const Keyboard=()=>{
     const[val,setValue]=useState("");
     const handleClick=(e)=> {
-        if(e.target.value==="calculate")
+        if(e.target.value==="Calculate")
         {
             setValue(eval(val));
         }
-        else if(e.target.value==="clear")
+        else if(e.target.value==="Clear")
         {
             setValue("");
         }
