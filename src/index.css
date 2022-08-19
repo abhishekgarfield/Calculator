@@ -12,7 +12,8 @@ body , html{
     display: flex;
     justify-content: space-evenly;
     flex-direction: row;
-    margin:4.5vh 0vh 4.5vh 0vh;
+    height: 95.5vh;
+    padding-top:4.5vh;
 }
 
 /* ------ Tab ------ */
