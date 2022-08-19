@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Calculator/static/css/main.5d60b2d8.css",
+    "main.css": "/Calculator/static/css/main.ca1d3749.css",
     "main.js": "/Calculator/static/js/main.494f9229.js",
     "static/media/pexels-cottonbro-5473960.jpg": "/Calculator/static/media/pexels-cottonbro-5473960.098403f683df39c2924a.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Calculator/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -11,11 +11,11 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Calculator/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Calculator/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/Calculator/index.html",
-    "main.5d60b2d8.css.map": "/Calculator/static/css/main.5d60b2d8.css.map",
+    "main.ca1d3749.css.map": "/Calculator/static/css/main.ca1d3749.css.map",
     "main.494f9229.js.map": "/Calculator/static/js/main.494f9229.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d60b2d8.css",
+    "static/css/main.ca1d3749.css",
     "static/js/main.494f9229.js"
   ]
 }
